@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="state" table="x_186140_issuetrac_issuetracker_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pending</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:11:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>97e2ae524fc31300c6094ea18110c77e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:11:32</sys_updated_on>
+            <value>-5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Open</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:11:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3e2ae524fc31300c6094ea18110c780</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:11:32</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Work in Progress</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:11:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5fe2ae524fc31300c6094ea18110c781</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:11:32</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Complete</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:11:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7e2ae524fc31300c6094ea18110c783</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:11:32</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Incomplete</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:11:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53e2ae524fc31300c6094ea18110c785</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:11:32</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed Skipped</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:11:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dbe2ae524fc31300c6094ea18110c786</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:11:32</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>state</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Closed in JIRA</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:11:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57e2ae524fc31300c6094ea18110c788</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:11:32</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:11:32</sys_created_on>
+            <sys_id>dfe2ae524fc31300c6094ea18110c77f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>state</sys_name>
+            <sys_package display_value="IssueTracker" source="x_186140_issuetrac">08a9869e4f031300c6094ea18110c78c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IssueTracker">08a9869e4f031300c6094ea18110c78c</sys_scope>
+            <sys_update_name>sys_choice_x_186140_issuetrac_issuetracker_table_state</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:11:32</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

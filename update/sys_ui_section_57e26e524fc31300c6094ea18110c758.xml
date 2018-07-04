@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="JIRA" section_id="57e26e524fc31300c6094ea18110c758" sys_domain="global" table="x_186140_issuetrac_issuetracker_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_export</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:18:30</sys_created_on>
+            <sys_id>9d8462d24fc31300c6094ea18110c777</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="JIRA" display_value="JIRA" name="x_186140_issuetrac_issuetracker_table" sys_domain="global" view="Default view">57e26e524fc31300c6094ea18110c758</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:18:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:18:30</sys_created_on>
+            <sys_id>118462d24fc31300c6094ea18110c778</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="JIRA" display_value="JIRA" name="x_186140_issuetrac_issuetracker_table" sys_domain="global" view="Default view">57e26e524fc31300c6094ea18110c758</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:18:30</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_exported</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:18:30</sys_created_on>
+            <sys_id>918462d24fc31300c6094ea18110c778</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="JIRA" display_value="JIRA" name="x_186140_issuetrac_issuetracker_table" sys_domain="global" view="Default view">57e26e524fc31300c6094ea18110c758</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:18:30</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>JIRA</caption>
+            <header>false</header>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 13:11:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57e26e524fc31300c6094ea18110c758</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>JIRA</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IssueTracker" source="x_186140_issuetrac">08a9869e4f031300c6094ea18110c78c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IssueTracker">08a9869e4f031300c6094ea18110c78c</sys_scope>
+            <sys_update_name>sys_ui_section_57e26e524fc31300c6094ea18110c758</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 13:11:32</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

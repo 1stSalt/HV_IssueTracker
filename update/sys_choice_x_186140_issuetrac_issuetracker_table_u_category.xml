@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_category" table="x_186140_issuetrac_issuetracker_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hardware</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 11:44:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c51f0e564f831300c6094ea18110c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 11:44:49</sys_updated_on>
+            <value>hardware</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Software</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 11:44:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>451f0e564f831300c6094ea18110c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 11:44:49</sys_updated_on>
+            <value>software</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SharePoint</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 11:44:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>011f0e564f831300c6094ea18110c7be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 11:44:49</sys_updated_on>
+            <value>sharepoint</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ServiceNow</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 11:44:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c91f0e564f831300c6094ea18110c7bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 11:44:49</sys_updated_on>
+            <value>servicenow</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Time Tracker</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 11:44:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>851f0e564f831300c6094ea18110c7c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 11:44:49</sys_updated_on>
+            <value>time tracker</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Smart Meeting</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 11:44:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>411f0e564f831300c6094ea18110c7c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 11:44:49</sys_updated_on>
+            <value>smart meeting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Smart Find</label>
+            <language>en</language>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 11:44:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d1f0e564f831300c6094ea18110c7c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 11:44:49</sys_updated_on>
+            <value>smart find</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_category</element>
+            <name>x_186140_issuetrac_issuetracker_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-04 11:44:49</sys_created_on>
+            <sys_id>011f0e564f831300c6094ea18110c7bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_category</sys_name>
+            <sys_package display_value="IssueTracker" source="x_186140_issuetrac">08a9869e4f031300c6094ea18110c78c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IssueTracker">08a9869e4f031300c6094ea18110c78c</sys_scope>
+            <sys_update_name>sys_choice_x_186140_issuetrac_issuetracker_table_u_category</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-04 11:44:49</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

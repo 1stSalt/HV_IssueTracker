@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element attributes="live_feed=true" audit="true" extends="task" label="IssueTracker Table" max_length="40" name="x_186140_issuetrac_issuetracker_table" type="collection">
+        <element label="New True/False" max_length="40" name="u_boolean_3" type="boolean"/>
+        <element dependent="company" dependent_on_field="company" label="Caller" mandatory="true" max_length="32" name="u_caller" reference="sys_user" type="reference" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Category" max_length="40" name="u_category" type="string">
+            <choice>
+                <element label="Hardware" sequence="0" value="hardware"/>
+                <element label="Software" sequence="1" value="software"/>
+                <element label="SharePoint" sequence="2" value="sharepoint"/>
+                <element label="ServiceNow" sequence="3" value="servicenow"/>
+                <element label="Time Tracker" sequence="4" value="time tracker"/>
+                <element label="Smart Meeting" sequence="5" value="smart meeting"/>
+                <element label="Smart Find" sequence="6" value="smart find"/>
+            </choice>
+        </element>
+        <element label="Export to JIRA" max_length="40" name="u_export" type="boolean"/>
+        <element label="exported" max_length="40" name="u_exported" read_only="true" type="boolean"/>
+        <element label="Export to Jira" max_length="40" name="u_export_to_jira" type="boolean"/>
+    </element>
+</database>

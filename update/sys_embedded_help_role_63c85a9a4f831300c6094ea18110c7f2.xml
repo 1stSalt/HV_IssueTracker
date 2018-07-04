@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_186140_issuetrac.Jira_ServiceUser" name="x_186140_issuetrac.Jira_ServiceUser">c5a856da4f831300c6094ea18110c784</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-04 12:27:19</sys_created_on>
+        <sys_id>63c85a9a4f831300c6094ea18110c7f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c5a856da4f831300c6094ea18110c784</sys_name>
+        <sys_package display_value="IssueTracker" source="x_186140_issuetrac">08a9869e4f031300c6094ea18110c78c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IssueTracker">08a9869e4f031300c6094ea18110c78c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_63c85a9a4f831300c6094ea18110c7f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-04 12:27:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
