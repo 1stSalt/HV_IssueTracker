@@ -12,26 +12,30 @@ var lastName = 'ServiceAccount';
 
 var newUser = new GlideRecord('sys_user');
 newUser.initialize();
-newUser.user_password.setDisplayValue("Ch@ngem3");
-newUser.password_needs_reset = true;
+newUser.user_password.setDisplayValue("hvdev.1");
+newUser.password_needs_reset = false;
 newUser.first_name = firstName;
 newUser.last_name = lastName;
 newUser.user_name = firstName + ' ' + lastName;
 newUser.insert();
+
+//newUser.roles = "x_186140_issuetrac.Jira_ServiceUser";
+//newUser.update('Update Role');
+
 gs.addInfoMessage('user added');
 ]]></script>
         <sys_class_name>sys_script_fix</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-04 13:41:05</sys_created_on>
         <sys_id>48772e164fc31300c6094ea18110c7ac</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name>Add Jira Service Account</sys_name>
         <sys_package display_value="IssueTracker" source="x_186140_issuetrac">08a9869e4f031300c6094ea18110c78c</sys_package>
         <sys_policy/>
         <sys_scope display_value="IssueTracker">08a9869e4f031300c6094ea18110c78c</sys_scope>
         <sys_update_name>sys_script_fix_48772e164fc31300c6094ea18110c7ac</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-04 13:53:35</sys_updated_on>
+        <sys_updated_on>2018-07-15 17:10:40</sys_updated_on>
         <unloadable>false</unloadable>
     </sys_script_fix>
 </record_update>
